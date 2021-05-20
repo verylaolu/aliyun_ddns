@@ -1,0 +1,5 @@
+info:
+  access_key_id: 阿里云access_key_id
+  access_key_secret: 阿里云access_key_secret
+  recordid: 域名的解析ID
+  domain_prefix: 域名前缀， ***或者@ ， 必填
